@@ -1,0 +1,15 @@
+Class Bootstrap :
+- alingn-items-center = vertikal tengah
+- align-items-start   = vertikal atas
+- align-items-end   = vertikal bawah
+
+
+my = margin vertikal
+mx = margin horizontal
+
+justify content center : horizontal tengah
+
+cara paki = my-1
+ukuran boorstrap 1-5, kalau mau lebih bisa cumtome di vanilla CSS
+
+pengertian, function, formula, contoh, qna
